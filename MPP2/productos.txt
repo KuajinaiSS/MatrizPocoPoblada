@@ -1,0 +1,20 @@
+Palta Reina,8000,Entrada,450
+Agua Mineral sin gas,1000,Bebestible,0
+Ensalada Cesar,7000,Entrada,310
+Flan de vainilla,1500,Postre, 140
+Pollo con arroz,7000,Fondo,550
+Ensalada de lechuga,1500,Entrada,50
+Lomo saltado,8000,Fondo,920
+Coctel de Mango,4000,Bebestible,330
+Pure con cerdo,8000,Fondo,710
+Tiramisu,3000,Postre,370
+Cazuela de pollo,4000,Fondo,360
+Lasaña,6000,Fondo,430
+Bebida 1.5L,2000,Bebestible,660
+Arroz con leche,1500,Postre,150
+Agua Mineral con gas,100,Bebestible,0
+Tomate Relleno,4500,Entrada,220
+Leche asada,2000,Postre,130
+Ensalada Chilena,3000,Entrada,110
+Ensalada de frutas,2000,Postre,110
+Jugo Natural Naranja,2000,Bebestible,120

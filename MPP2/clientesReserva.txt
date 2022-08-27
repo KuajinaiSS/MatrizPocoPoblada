@@ -1,0 +1,5 @@
+Pablo,Diaz,175276378,1,1
+Antonio,Parraguez,140682055,5,8
+Alexis,Fuenzalida,165349806,8,14
+Arturo,Prieto,21840510k,13,1
+Javier,Costa,175245677,14,17
